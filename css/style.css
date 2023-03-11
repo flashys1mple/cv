@@ -10,6 +10,21 @@ body {
     color: #66BFBF;
  }
 
+/* unvisited link */
+a:link {
+   color: blue;
+}
+
+/* visited link */
+a:visited {
+   color: purple;
+ }
+
+/* mouse over link */
+a:hover {
+   color: #66BFBF;
+ }
+
  hr {
   background-color: #EAF6F6;
   border-style: none;
